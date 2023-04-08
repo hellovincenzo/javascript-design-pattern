@@ -1,0 +1,11 @@
+{
+  "name": "javascript-design-pattern",
+  "version": "1.0.0",
+  "description": "A guide on design pattern in computer programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincenzo PELLEGRINI",
+  "license": "MIT"
+}
